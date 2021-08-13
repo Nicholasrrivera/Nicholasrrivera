@@ -1,7 +1,6 @@
 ### Hi there, I'm Nick 👋
 
-## I'm a Hard worker, Sports junkie, and Developer
-- 🔭 I just recently graduated
+## I'm a Hard worker, Devolper, and sports junkie
 - 🌱 I’m currently learning Everything 🤣
 - 👯 I’m always looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
