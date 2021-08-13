@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt= codeSTACKr.com LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Nick | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
@@ -28,6 +28,6 @@
 <br />
 
 
-// Details
+
 [linkedin]:https://www.linkedin.com/in/nicholasrrivera/
 [twitter]: https://twitter.com/NickRivera94
