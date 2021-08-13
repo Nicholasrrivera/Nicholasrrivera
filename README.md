@@ -29,18 +29,7 @@
 <br />
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
   
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/NicholasrRivera/portfolio-sass/issues/2) in [NicholasrRivera/portfolio-sass](https://github.com/NicholasrRivera/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/NicholasrRivera/portfolio-sass/issues/2) in [NicholasrRivera/portfolio-sass](https://github.com/NicholasrRivera/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/NicholasrRivera/free-developer-resources/pull/11) in [NicholasrRivera/free-developer-resources](https://github.com/NicholasrRivera/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/NicholasrRivera/free-developer-resources/issues/11) in [NicholasrRivera/free-developer-resources](https://github.com/NicholasrRivera/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/NicholasrRivera/free-developer-resources/pull/10) in [NicholasrRivera/free-developer-resources](https://github.com/NicholasrRivera/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
-
 
 
 [linkedin]:https://www.linkedin.com/in/nicholasrrivera/
