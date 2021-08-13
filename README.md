@@ -7,7 +7,9 @@
 - ⚡ Fun fact: I love Basketball, and videogames
 
 ### Connect with me:
+
 [<img align="left" alt="Nick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nick | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
 ### Languages and Tools:
@@ -26,5 +28,6 @@
 <br />
 
 
-
+// Details
 [linkedin]:https://www.linkedin.com/in/nicholasrrivera/
+[twitter]: https://twitter.com/NickRivera94
