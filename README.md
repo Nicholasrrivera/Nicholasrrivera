@@ -3,8 +3,8 @@
 ## I'm a Hard worker, Devolper, and sports junkie
 - 🌱 I’m currently learning Everything 🤣
 - 👯 I’m always looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn atleast 2 new coding languages, and engage in more open source projects.
-- ⚡ Fun fact: I love Basketball, and videogames
+- 🥅 Goals: Learn atleast 2 new coding languages, and engage in more open source projects.
+- ⚡ Fun fact: I love Basketball
 
 ### Connect with me:
 
